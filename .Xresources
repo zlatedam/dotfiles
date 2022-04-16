@@ -1,0 +1,12 @@
+Xft.dpi: 192
+
+XTerm*font: CartographCF-Regular  9 XTerm.vt100.background
+xterm*faceName: xft:monospace:pixelsize=28
+XTerm.vt100.localte: true
+XTerm.vt100.scrollBar: false
+
+XTerm.vt100.foreground: white
+XTerm.vt100.background: black
+XTerm.vt100.color0: rgb:28/28/28
+! ...
+XTerm.vt100.color15: rgb:e4/e4/e4
