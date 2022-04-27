@@ -75,7 +75,7 @@ hardware.bluetooth.enable = true;
    users.users.zlatko = {
      isNormalUser = true;
      initialPassword = "helloworld";
-     extraGroups = [ "wheel" ]; # Enable ‘sudo’ for the user.
+     extraGroups = [ "wheel" ]; 
    };
 
    environment.systemPackages = with pkgs; [
@@ -89,8 +89,11 @@ hardware.bluetooth.enable = true;
    openssl
    openssl.dev
    tmux
-   mupdf 
-    
+   mupdf
+   cmus 
+   slock
+   unzip
+ 
    #GUI Applications 
    wget
    firefox
@@ -103,15 +106,28 @@ hardware.bluetooth.enable = true;
    soulseekqt
    deluge
    libreoffice
-      
-   # Game specific drivers / packages
+   tdesktop
+   thunderbird   
+   transmission-qt
+   
+    
+   # Game specific drivers / packages 
    vulkan-tools
- 
+   minecraft
+
    # Dev Environment 
    jre
    vscodium
    adoptopenjdk-icedtea-web
- 
+   openjdk
+   nodejs
+
+   #cpp
+   cmake
+   ninja
+   pkg-config
+   swig
+
    # xmonad applications 
    xmobar
    nitrogen
@@ -139,9 +155,15 @@ hardware.bluetooth.enable = true;
   # Enable the OpenSSH daemon.
    services.openssh.enable = true;
 
+  # Enable slock
+   programs.slock.enable = true;
+
   # Flathub 
   services.flatpak.enable = true;
 
+  # Docker
+  virtualisation.docker.enable = true;
+  
   # Steam missing dependencies 
   nixpkgs.config.packageOverrides = pkgs: {
   steam = pkgs.steam.override {
