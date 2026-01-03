@@ -1,0 +1,436 @@
+vim config 
+config nu
+$env.config.buffer_editor = "vim"
+config nu
+fastfetch
+clear
+ls .config/
+clear
+cd dotfiles/
+mkdir -p ghostty/Library/Application\ Support/com.mitchellh.ghostty
+mkdir ~/Library/Application\ Support/com.mitchellh.ghostty<\n>
+clear
+cd
+fastfetch
+cd dot
+cd dotfiles/
+mkdir ~/Library/Application\ Support/com.mitchellh.ghostty<\n>
+touch ~/Library/Application\ Support/com.mitchellh.ghostty/config<\n>
+ls
+stow nushell/
+cd
+clear
+ls
+lrm -rf ghostty/
+rm -rf ghostty/
+clear
+cd dotfiles/
+ls
+cd
+`Library/Application Support/com.mitchellh.ghostty/`
+ls
+cd
+ls
+clear
+ls "~/Library/Application Support/com.mitchellh.ghostty/"<\n>
+ls `Library/Application Support/com.mitchellh.ghostty/config`
+mv ~/Library/"Application Support"/com.mitchellh.ghostty/config ~/dotfiles/ghostty/Library/"Application Support"/com.mitchellh.ghostty/config<\n>
+mv `~/Library/Application Support/com.mitchellh.ghostty/config` ~/dotfiles/ghostty/Library/"Application Support"/com.mitchellh.ghostty/config
+mv ~/Library/Application\ Support/com.mitchellh.ghostty/config ~/dotfiles/ghostty/Library/Application\ Support/com.mitchellh.ghostty/config
+cd ~/Library/Application\ Support/com.mitchellh.ghostty/<\n>
+cd `Library/Application Support/com.mitchellh.ghostty/`
+ls
+clear
+cd
+clear
+cd
+lear
+clear
+cd `Library/Application Support/com.mitchellh.ghostty/`
+ls
+cd
+clear
+cd dotfiles/
+mkdir ghostty
+cd ghostty/
+mkdir Library
+cd Library/
+mkdir "Application Support"
+cd `Application Support/`
+mkdir com.mitchellh.ghostty
+cd
+ls
+clear
+cd ~/Library/"Application Support"/com.mitchellh.ghostty<\n>   mv config ~/dotfiles/ghostty/Library/"Application Support"/com.mitchellh.ghostty/
+cd ~/Library/"Application Support"/com.mitchellh.ghostty
+clear
+cd
+mkdir `~/dotfiles/ghostty/Library/Application Support/com.mitchellh.ghostty`<\n>
+cd
+cd dotfiles/
+stow ghostty/
+ls
+cd .config
+clear
+cd
+clear
+nfssd
+clear
+brew list
+ncdu
+clear
+config 
+config nu
+vim `dotfiles/ghostty/Library/Application Support/com.mitchellh.ghostty/config`
+clear
+pfetch
+clear
+fastfetch
+clear
+vim `~/dotfiles/ghostty/Library/Application Support/com.mitchellh.ghostty/config`<\n>
+config nu
+fastfetch
+brew install git
+clear
+git config --global user.name "zlatedam"<\n>
+clear
+$ git config --global user.name<\n>
+git config --global user.name
+clear
+git --version
+clear
+brew update
+brew upgrade
+clear
+brew list
+fastfetch
+clear
+hto
+htop
+brew update
+brew upgrade
+brew cleanup
+clear
+brew update
+brew upgrade
+clear
+brew update
+brew upgrade
+clea
+clear
+fastfetch
+brew update
+brew upgrade
+clear]
+clear
+fastfetch
+brew update
+brew upgrade
+clea
+rclear
+clear
+fastfetch
+ls Library/Application Support/
+cd `Library/Application Support/`
+ls
+rm -rf Hyper/
+cd
+clear
+cd Library/Caches/
+ls
+find Hyper
+grep Hyper
+clear
+whereis Hyper
+cd
+clear
+cd Library/Logs/
+ls
+cd
+clear
+cd Library/Preferences/
+ls
+cd
+clear
+cd Library/Preferences 
+ls
+rm -rf co.zeit.hyper.plist
+clear
+cd
+clear
+cd Library/Containers
+ls
+rm -rf mega.mac.MEGAShellExtFinder/
+clear
+cd
+clear
+cd Library/Cookies/
+ls
+clear
+cd
+clear
+homebrew update
+brew update
+brew upgrade
+brew cleanuo
+brew cleanup
+clear
+ls
+ls -a
+clear
+cd dotfiles/
+ls
+brew list
+clear
+cd
+clear
+brew update
+brew upgrade
+brew cleanup
+clear
+brew update
+brew upgrade
+clear
+pfetch
+clear
+fastfetch
+brew update
+brew upgrade
+clear
+fastfetch
+clear
+ls
+ls -a
+rm -rf .hyper.js
+ls
+ls -a
+rm -rf .zsh_history
+rm -rf .zsh_sessions
+rm -rf .zshrc
+ls
+ls-a
+ls -a
+rm -rf .hyper_plugins/
+ls
+ls-a
+ls -a
+cd dotfiles/
+ls
+rm -rf zsh
+ls
+clear
+ls
+cd Support/
+ls
+clea
+rclear
+clear
+pfetch
+fastfetch
+cd Application Support/
+cd `Library/Application Support/`
+ls
+rm -rf `Mega Limited/`
+cd
+cd Library/Cookies
+ls
+ls -a
+cd
+clear
+ls -a
+cd Library/
+ls
+cd Caches/
+ls
+rm -rf `Mega Limited/`
+ls
+rm -rf co.zeit.hyper/
+rm -rf co.zeit.hyper.ShipIt/
+ls
+clear
+cd
+clear
+cd Library/
+ls
+ls -a
+brew update
+brew upgrade
+clear
+brew update
+brew upgrade
+clear
+fastfetch
+brew update
+brew upgrade
+clear
+fastfetch
+brew update
+brew upgrade
+brew cleanup
+clear
+ls
+ls -a
+cd .cache/
+ls
+cd
+ls
+ls -a
+cd Library/
+ls
+ls -a
+clear
+lc
+clear
+cd
+clear
+fastfetch
+brew update
+brew upgrade
+clear
+brew update
+brew upgrade
+clear
+ls
+cd Documents/
+ls
+brew update
+brew upgrade
+ls -a
+brew update
+brew upgrade
+clear
+fastfetch
+brew update
+brew upgrade
+clear
+cd
+ls
+ls -a
+cd .config
+ls
+cd
+ls
+ls -a
+brew update
+brew upgrade
+brew cleanup
+clear
+fastfetch
+brew update
+brew upgrade
+clear
+htop
+clear
+ls-a 
+ls -a
+brew updat
+eclear
+clear
+brew update
+brew upgrade
+brew cleanup
+brew update
+brew upgrade
+clear
+ls -a
+fastfetch
+git config --list
+cd Library/
+ls
+cd
+clear
+ls
+cd code/
+ls
+cd HabitTracker/
+git init
+git add .
+clear
+cd 
+clear
+ssh-keygen -t rsa -b 4096 -C zlatedam@icloud.com
+ls -a
+cd .ssh
+ls
+rm -rf id_rsa id_rsa.pub
+ls
+cd
+clear
+ssh-keygen -t rsa -b 4096 -C zlatedam@icloud.com
+open ~/.ssh/config
+touch ~/.ssh/config
+open ~/.ssh/config
+cd ~/.ssh
+cd config
+vim config
+clear
+ls
+ls -a
+cd .
+ls
+mv github github.pub .ssh
+cd .ssh
+ls
+ssh-add --apple-use-keychain github
+cat github
+cat github.pub
+clear
+cd
+clear
+cd code/
+ls
+cd HabitTracker/
+git init 
+ls
+git add .
+git commit -m "initial commit"
+git remote add origin https://github.com/zlatedam/HabitTracker
+git push -u origin main
+git remote add origin git@github.com:zlatedam/HabitTracker.git
+git remote remove origin
+git remote add origin git@github.com:zlatedam/HabitTracker.git
+git commit -m "init commit"
+git add .
+git commit -m "init"
+git push -u origin main
+clear
+cd
+vim .ssh/known_hosts
+ssh-keyscan github.com >> ~/.ssh/known_hosts<\n>
+cd code/HabitTracker/
+ls
+git push -u origin main
+ls
+cd
+clear
+ls
+cd dotfiles/
+ls
+git remote add origin git@github.com:zlatedam/dotfiles.git
+git init 
+ls
+git remote add origin git@github.com:zlatedam/dotfiles.git
+git commit -m "init"
+git add .
+git commit -m "init"
+git push -u origin main
+git commit -m "initial commit"
+git add .
+git commit -m "init"
+git push
+git push -u origin main
+git remote remove
+git remote remove origin
+git remote add origin git@github.com:zlatedam/dotfiles.git
+git commit -m "init"
+git init
+git add .
+git commit -m "init"
+git push -u origin main
+git add .
+git remote remove origin
+ls -a
+rm -rf .git
+clear
+git init
+git commit -m "first commit"

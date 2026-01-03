@@ -1,0 +1,11 @@
+
+#Set font 
+ font-family = Menlo
+# window-padding-x = 2
+
+#Set nu as default launch option
+command = /opt/homebrew/bin/nu
+
+# Set theme 
+background = 000000
+foreground = ffffff
