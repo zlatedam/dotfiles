@@ -434,3 +434,135 @@ rm -rf .git
 clear
 git init
 git commit -m "first commit"
+git add .
+git commit -m "first"
+git remote add origin git@github.com:zlatedam/dotfiles.git
+git push -u origin main
+git git remote add origin git@github.com:zlatedam/dotfiles.git
+git remote add origin git@github.com:zlatedam/dotfiles.git
+git branch -M main
+git push -u origin main
+git status
+clear
+cd
+clear
+brew update
+brew upgrade
+ls
+ls -a
+ls /opt/homebrew/
+cat /opt/homebrew/etc
+cd /opt/homebrew/
+ls
+cd Caskroom/
+ls
+clear
+cd
+clear
+htop
+clear
+cd code
+ls
+clear
+cd
+ls
+cd dot
+cd dotfiles/
+ls
+clear
+cd
+clear
+fastfetch
+brew update
+brew upgrade
+brew update
+brew upgrade
+brew cleanuo
+brew cleanup
+clear
+fastfetch
+brew update
+brew upgrade
+brew update
+brew upgrade
+ls
+cd code/
+git commit -m "added homescreen + basic functionality"
+git add .
+ls
+cd HabitTracker/
+git add .
+git commit -m "added homescreen + basic functionality"
+git push -u origin main
+ls
+git add .
+git add. 
+git add ,
+git add.
+git add .
+git commit -m "homescreen +"
+git push
+clear
+cd
+clear
+brew update
+brew upgrade
+clear
+cd code/
+ls
+cd HabitTracker/
+git add .
+git commit -m "widget"
+git push
+clear
+cd
+brew update
+brew upgrade
+clear
+fastfetch
+cd dotfiles/
+ls
+cd code
+ls
+cd HabitTracker/
+ls
+git add .
+git commit -m "widget fixes"
+git push 
+cd
+clear
+cd
+ls
+ls -a
+clear
+cd
+ls
+ls -a
+brew update
+brew upgrade
+clear
+htop
+clear
+fastfetch
+brew update
+brew upgrade
+brew update
+brew upgrade
+cd code/
+ls
+cd HabitTracker/
+git add .
+git push -m "added backup & streak / achievement tracking capability"
+git push "added streaks & backup capability"
+git add .
+git commit -m "added capability to backup progress, as well as streak / achievements"
+git push 
+clear
+vim README.md
+git add .
+git commit -m "added readme"
+git push
+cd
+ls
+cd dotfiles/
+vim README.md
