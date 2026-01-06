@@ -566,3 +566,362 @@ cd
 ls
 cd dotfiles/
 vim README.md
+git add .
+git commit -m "added readme"
+git push
+clear
+git config user.email<\n>
+git config user.name<\n>
+git config user.name "zlatedam"<\n>
+cd
+clear
+git config user.name "zlatedam"<\n>
+git config --global user.name "zlatedam"<\n>
+git config --global user.email "zlatedam@icloud.com"<\n>
+cd code/HabitTracker/
+git filter-branch -f --env-filter '<\n>if [ "$GIT_COMMITTER_EMAIL" != "zlatedam@icloud.com" ]; then<\n>    export GIT_COMMITTER_NAME="zlatedam"<\n>    export GIT_COMMITTER_EMAIL="zlatedam@icloud.com"<\n>fi<\n>if [ "$GIT_AUTHOR_EMAIL" != "zlatedam@icloud.com" ]; then<\n>    export GIT_AUTHOR_NAME="zlatedam"<\n>    export GIT_AUTHOR_EMAIL="zlatedam@icloud.com"<\n>fi<\n>' --tag-name-filter cat -- --branches --tags<\n><\n>git push --force
+git log --pretty=format:"%an <%ae>" | head -10
+git filter-branch -f --env-filter '<\n>export GIT_COMMITTER_NAME="zlatedam"<\n>export GIT_COMMITTER_EMAIL="zlatedam@icloud.com"<\n>export GIT_AUTHOR_NAME="zlatedam"<\n>export GIT_AUTHOR_EMAIL="zlatedam@icloud.com"<\n>' --tag-name-filter cat -- --branches --tags<\n><\n>git push --force
+git log --pretty=format:"%an <%ae>" | head -10
+clear
+git log --pretty=format:"%ae" | head -5
+git add .
+git commit -m "added"
+clear
+git config --global user.name "zlatedam"<\n>
+git config --global user.email "zdamc11@gmail.com"<\n>
+git filter-branch -f --env-filter '<\n>export GIT_COMMITTER_NAME="zlatedam"<\n>export GIT_COMMITTER_EMAIL="zdamc11@gmail.com"<\n>export GIT_AUTHOR_NAME="zlatedam"<\n>export GIT_AUTHOR_EMAIL="zdamc11@gmail.com"<\n>' --tag-name-filter cat -- --branches --tags<\n><\n>git push --force
+clear
+cd
+clear
+fastfetch
+htop
+cd code/HabitTracker/
+git add .
+git commit -m "updates"
+clear
+cd
+ls 
+brew update
+brew upgrade
+brew list
+brew update
+clear
+brew upgrade
+htop
+clear
+ls
+cd code/
+ls
+clear
+brew install node 
+node --version
+npm --version
+brew install --cask visual-studio-code
+clear
+which nu
+clear
+source-file ~/.tmux.conf
+chsh -s $(which nu)
+chsh -s $ nu
+vim .tmux.conf
+clear
+vim .tmux.conf
+exit
+clear
+ls
+cd code/
+ls
+mkdir pomodoro
+cd pomodoro/
+mkdir src 
+cd src
+mkdir components 
+mkdir hooks
+mkdir utils
+mkdir App.jsx
+cd ..
+mdir public
+mkdir public
+touch package.json
+ls
+cd src/
+ls
+vim App.jsx
+ls
+rm -rf App.jsx/
+touch App.jsx
+vim App.jsx
+ls
+touch App.css
+vim App.css
+npm run dev
+ls
+cd ..
+ls
+vim package.json
+npm install
+vim package.json
+rm -rf package.json
+cd ~/code/pomodoro<\n><\n>cat > package.json << 'EOF'<\n>{<\n>  "name": "my-pomodoro",<\n>  "private": true,<\n>  "version": "0.0.0",<\n>  "type": "module",<\n>  "scripts": {<\n>    "dev": "vite",<\n>    "build": "vite build",<\n>    "preview": "vite preview"<\n>  },<\n>  "dependencies": {<\n>    "react": "^18.3.1",<\n>    "react-dom": "^18.3.1"<\n>  },<\n>  "devDependencies": {<\n>    "@vitejs/plugin-react": "^4.3.4",<\n>    "vite": "^6.0.5"<\n>  }<\n>}<\n>EOF
+touch package.json 
+vim package.json
+clear
+vim package.json
+ls
+cd src/
+ls
+vim App.jsx
+vim App.css
+cd ..
+ls
+clear
+npm install
+npm run dev
+clear
+ls -la src/
+cat src/App.jsc
+cat src/App.jsx
+npm install
+npm run dev
+ls -a
+cd src
+cd ..
+npm run dev
+clear
+npm run dev
+clear
+npm run dev
+clear
+npm run dev
+rm -rf node_modules/.vite/
+npm run dev
+npm install
+cd ~/code/pomodoro<\n>find . -name "*.jsx" -o -name "*.css" -o -name "*.html" -o -name "*.json" | grep -v node_modules
+cd 
+cd ~/code/pomodoro<\n>find . -name "*.jsx" -o -name "*.css" -o -name "*.html" -o -name "*.json" | grep -v node_modules
+cd 
+clear
+cd ~/code/pomodoro<\n>find . -name "*.jsx" -o -name "*.css" -o -name "*.html" -o -name "*.json" | grep -v node_modules
+find . -name "*.jsx" -o -name "*.css" -o -name "*.html" -o -name "*.json" | grep -v node_modules<\n>
+echo "=== index.html ===" && cat index.html<\n>
+clear
+cd code/
+ls 
+rm -rf pomodoro 
+mkdir mypomo
+ls
+clear
+cd mypomo/
+ls
+git remote add origin git@github.com:zlatedam/pomodoro.git
+git init 
+git remote add origin git@github.com:zlatedam/pomodoro.git
+git add .
+git commit -m "initital commit"
+git add .
+git commit -m "init"
+ls
+git add .
+git commit -m "init"
+git push 
+git push --set-upstream origin master
+ls
+npm install
+git checkout master
+git pull origin master
+ls
+git add .
+git commit -m "adding source"
+git push origin master
+clear
+git checkout main<\n>
+git checkout main
+git pull origin main
+git merge master
+git push origin main
+git push origin master<\n>
+git push -u origin master
+git push
+git add .
+git commit -m "main"
+git push
+git log --oneline
+clear
+vim README.md
+git add .
+git commit -m "readme"
+git push 
+git push origin --delete main<\n>
+clear
+git add .
+git commit -m "added change"
+clear
+cd
+clear
+tmux
+clear
+brew update 
+brew upgrade
+clear
+cd code/mypomo/
+ls
+vim README.md
+clear
+git add .
+git commit -m "readme"
+git push
+brew updat
+clear
+brew update
+brew upgrade
+clear
+fastfech
+fastfetch
+ls -a
+cleaar
+clear
+cd code
+ls
+cd
+clear
+brew update
+brew upgrade
+clear
+brew update
+brew upgraed
+brew upgrade
+clear
+fastfetch
+brew update
+flatpak
+brew upgrade
+clear
+brew update
+brew upgrade
+clear
+fastfetch
+brew update
+brew upgrad
+clear
+brew upgrade
+clear
+ls
+ls -a
+clear
+cd code/
+ls
+cd HabitTracker/
+ls
+cd HabitTracker/
+ls
+brew update
+brew upgrde
+brew upgrade
+clear
+fastfetch
+brew update
+brew upgrade
+brew update
+brew upgrade
+brew update
+brew upgrade
+clear
+fastfetch
+brew update 
+brew upgrade
+clear
+brew udpate
+clear
+brew update
+cd Documents/feh/
+ls
+cd kayla/
+ls
+feh /Users/zlatkodamcevski/Documents/feh/kayla/573812410_18539376376045444_4930794658554070321_n.jpg
+/Users/zlatkodamcevski/Documents/feh/kayla/573812410_18539376376045444_4930794658554070321_n.jpg
+cd
+feh /Users/zlatkodamcevski/Documents/feh/kayla/573812410_18539376376045444_4930794658554070321_n.jpg
+xquarts
+xquartz
+brew update
+brew upgrade
+clear
+fastfetch
+brew update
+brew upgrade
+brew update
+brew upgrade
+clear
+fastfetch
+brew update
+brew upgrade
+feh
+brew update
+clear
+brew update
+brew upgrade
+brew update
+brew upgrade
+cllear
+brew update
+brew upgrade
+brew update
+brew upgrade
+clear
+fastfetch
+brew update
+brew upgrade
+clear
+cd code/
+ls
+cd mypomo
+ls
+clea
+clear
+ls
+vim index.html
+ls
+cd src
+ls
+vim App.css
+git add .
+clear
+git commit -m "addme"
+clear
+cd
+clear
+ls
+cd dotfiles/
+ls
+clear
+cd
+clear
+brew update
+brew upgrade
+clear
+fastfetch
+clear
+brew update
+brew upgrade
+clear
+fastfetch
+clear
+ls
+ls -a
+vim .bashrc
+clear
+ls
+ls -a
+vim .tmux.conf
+who nu
+which nu
+tmux
+cclear
+clear
+cd
+exit
+tmux
+clear
+cd dotfiles/
+git add 
