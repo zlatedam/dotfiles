@@ -925,3 +925,20 @@ tmux
 clear
 cd dotfiles/
 git add 
+git add .
+git commit -m "tmux shell change"
+git push
+brew update
+brew upgrade
+brew clean
+brew cleanup
+clear
+fastfetch
+feh 
+vim .bashrc
+cd dotfiles/
+vim .bashrc
+stow .bashrc
+mkdir bashrc
+mv .bashrc bashrc/
+stow bashrc/
