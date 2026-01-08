@@ -1011,3 +1011,46 @@ brew list
 brew install --cask spotify
 clear
 cd dotfiles/
+git add .
+git commit -m "bash update"
+git push
+cd
+clear
+brew list
+brew updat
+clear
+brew upate
+brew update
+brew upgrade
+clear
+brew autoclean
+brew clean
+brew cleanup
+brew update
+brew upgrade
+clear
+brew list
+who stremio
+where stremio
+brew install --cask stremio
+clear
+fastfethc
+fastfetch
+clear
+brew list
+brew install --cask firefox
+clear
+fastfetch
+clear
+brew install --cask utm
+clear
+brew update
+clear
+cd code/
+ls
+cd
+clear
+cd dotfiles/
+ls
+vim README.md
+clear
