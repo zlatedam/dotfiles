@@ -942,3 +942,72 @@ stow .bashrc
 mkdir bashrc
 mv .bashrc bashrc/
 stow bashrc/
+git add .
+git commit -m "bash"
+git push
+cd
+clear
+feh
+brew update
+brew upgrade
+clear
+brew update
+brew upgrdad
+clear
+brew upgrade
+brew update
+brew upgrade
+clear
+ls
+clear
+brew update
+brew upgrade
+clear
+fastfetch
+brew update
+brew upgrade
+clear
+fastfetch
+brew update
+brew upgrade
+clear
+flatpak
+fastfetch
+brew update
+brew upgrade
+clear
+brew cleanup
+clea
+brew list
+brew install --cask appcleaner
+clear
+brew install --cask discord
+brew ist
+brew list
+cd Documents/
+ls
+cd feh/
+ls
+feh /Users/zlatkodamcevski/Documents/feh/kayla/573812410_18539376376045444_4930794658554070321_n.jpg
+export DISPLAY=:0
+c
+cd
+clear
+config nu
+vim config nu
+covim `Library/Application Support/nushell/config.nu`
+vim `Library/Application Support/nushell/config.nu`
+xquartz
+open -a xquartz
+brew list
+brew install --cask xquartz
+feh /Users/zlatkodamcevski/Documents/feh/kayla/573812410_18539376376045444_4930794658554070321_n.jpg
+echo $DISPLAY<\n>
+vim .bashrc
+xclock
+fhe
+feh
+brew list 
+brew install --cask spotify
+clear
+cd dotfiles/

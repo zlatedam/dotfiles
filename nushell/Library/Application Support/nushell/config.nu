@@ -14,4 +14,5 @@ $env.PATH = (
 $env.EDITOR = 'vim'
 $env.VISUAL = 'vim'
 
+# xQuartz compatability to set display 0 permanently 
 
