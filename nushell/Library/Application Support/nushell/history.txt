@@ -1054,3 +1054,512 @@ cd dotfiles/
 ls
 vim README.md
 clear
+git add .
+git commit -m "update"
+git push
+clear
+cd
+clear
+brew update
+clear
+brew upgrade
+brew list
+clear
+fastfetch
+brew update
+brew upgrade
+cleaar
+clear
+fastfetch
+cd code/
+ls
+cd HabitTracker/
+ls
+cd Assets/
+ls
+cd ..
+ls
+vim HabitWidget/HabitWidgetControl.swift
+clear
+cd
+cd ..
+clear
+cd
+clear
+ls -a
+brew install --cask adobe-acrobat-reader
+clear
+brew list
+clear
+brew update
+brew upgrade
+brew update
+brew upgradae
+clear
+brew upgrade
+clear
+ls
+ls -a
+cd dot
+cd dotfiles/
+ls
+clear
+ls
+ls -a
+brew install --cask microsoft-excel
+brew install --cask microsoft-word
+clear
+brew list
+clear
+brew list casks.txt
+brew list > casks.txt
+cat brew list > casks.txt
+brew update
+brew upgrade
+clear
+brew list
+clear
+fastfetch
+clear
+fastfetch
+cler
+clear
+fastfetch
+brew update 
+brew upgrade
+clear
+brew list
+clear
+htop
+clear
+brew update
+clear
+fastfetch
+brew update
+brew upgrade
+clear
+brew list
+brew update
+brew upgrade
+clear
+brew update
+brew upgrade
+clear
+fastfetch
+brew list
+clear
+brew list
+brew update
+brew upgrade
+brew update
+brew upgrade
+brew update
+brew upgrade
+clear
+fastfetch
+clear
+brew update
+brew upgrad
+ebrew u
+clear
+brew upgrade
+brew list
+clear
+brew update
+brew upgrade
+brew update
+brew upgrade
+clear
+brew list
+echo DISPLAY
+echo $DISPLAY
+clear
+brew update
+brew upgrade
+clear
+fastfetch
+clear
+brew list
+brew help
+brew update
+brew upgrade
+clear
+fastfetch
+brew
+clear
+brew update
+clear
+ls -a
+cd code
+ls
+clear
+ls
+clear
+cd
+clear
+brew update
+brew upgrade
+clear
+fastfetch
+brew install --cask crystalfetch
+clear
+cd Downloads/
+ls
+brew list
+clear
+fastfetch
+clear
+fastfetch
+brew update
+brew upgrade
+clear
+fastfetch
+clear
+brew update
+brew upgrade
+clear
+fastfetch
+brew update
+brew upgrade
+clear
+fastfetch
+clear
+ls
+cd code/
+ls
+clear
+ls
+cd HabitTracker/
+ls
+vim HabitTracker.xcodeproj/
+:wq
+q
+clear
+exit
+brew update
+brew upgrade
+clear
+fastfetch
+brew update
+brew upgrade
+clear
+brew update
+brew upgrade
+clear
+fastfetch
+clear
+brew list
+clear
+brew update
+brew upgrade
+clear
+brew list
+clear
+brew update
+brew upgrade
+clear
+fastfetch
+clear
+pfetch
+brew update
+brew upgrade
+clrear
+clear
+brew list
+brew update
+brew install gallery-dl<\n>
+gallery-dl https://www.instagram.com/indiebostockkkk/p/DS9iSNalK8z/
+brew uninstall gallery-dl
+cd code/
+mkdir ig-archive
+cd ig-archive/
+touch ig-archive.user.js
+vim ig-archive.user.js
+cd ..
+git add .
+clear 
+cd ig-archive/
+git remote add origin git@github.com:zlatedam/ig-archiver.git
+git init 
+git add .
+git commit -m "update"
+git remote add origin git@github.com:zlatedam/ig-archiver.git
+git push -u origin main
+git branch -M main<\n>
+git push -u origin main
+ls -la ~/.ssh/
+cat ~/.ssh/config<\n>
+ls -la ~/.ssh/id_ed25519*
+vim ~/.ssh/config
+ssh -T git@github.com<\n>
+git push -u origin main
+git push -u origin main --force<\n>
+clear
+vim README.md
+git add .
+git commit -m "readme"
+git push 
+vim ig-archive.user.js
+git add .
+git commit -m "script update"
+git push
+ls
+git mv ig-archive.user.js posts.user.js<\n>
+touch stories.user.js
+vim posts.user.js
+vim stories.user.js
+git add .
+git commit -m "split into separate functions"
+git push
+cear
+clear
+cd ..
+ls
+cd mypomo/
+pwd
+ls
+cd src
+ls
+echo "=== App.jsx ===" && cat App.jsx && echo -e "\n=== App.css ===" && cat App.css && echo -e "\n=== index.css ===" && cat index.css && echo -e "\n=== main.jsx ===" && cat main.jsx<\n>
+echo "=== App.jsx ==="; cat App.jsx; echo "\n=== App.css ==="; cat App.css; echo "\n=== index.css ==="; cat index.css; echo "\n=== main.jsx ==="; cat main.jsx
+clear
+ls
+vim App.jsx
+vim App.css
+npm install
+npm run dev
+clear
+ls
+vim App.jsx
+pbpaste
+pbpaste App.jsx
+vim App.jsx
+clear
+cd
+clear
+brew update
+brew upgrade
+brew list
+cd code/
+ls
+clear
+ls
+cd mypomo/
+git add .
+git commit -m "v1"
+git push
+npm install @supabase/supabase-js<\n>
+ls
+cd src/
+touch supabaseClient.js
+cd ..
+git add .
+git commit -m "supabase"
+git push
+git add .
+git commit -m "supabase addition"
+git push
+git add .
+git commit -m "new"
+git add 
+git add .
+git commit -m "updated jsx"
+git push
+git status
+git add .
+git commit -m "updated"
+git push
+clear
+clear
+cd
+clear
+brew update
+git add .
+git commit -m "sync everything"
+git push
+htop
+clear
+git add .
+git commit -m "fix duplicate saving"
+git push
+ls
+vim README.md
+git add .
+git commit "dupe"
+git commit -m "fix"
+clear
+git add .
+git commit -m "live fix"
+git push
+git add .
+git commit -m "changes"
+git push
+clear
+cd
+exit
+tmux
+clear
+cd
+clear
+brew update
+brew upgrade
+clear
+brew update
+clear
+fastfetch
+brew update
+brew upgrade
+clear
+brew update
+brew upgrade
+brew update
+brew upgrade
+brew list
+clear
+brew update
+brew upgrade
+clear
+htop
+clear
+cd code/
+ls
+cd mypomo/
+ls
+cd code/
+ls
+cd mypomo/
+ls
+vim README.md
+git add 
+git add .
+git commit -m "readme"
+git push
+vim README.md
+git add .
+git commit -m "readme"
+git push
+clear
+cd
+clear
+brew update
+brew upgrade
+fastfetch
+clear
+cd code/
+git clone git@github.com:zlatedam/filtr.git
+cd filtr/
+git status
+curl -o .gitignore https://raw.githubusercontent.com/github/gitignore/main/Swift.gitignore<\n>
+ls
+cd filtr/
+ls
+cd
+ls
+cd code/
+ls
+cd filtr
+ls
+git add .
+git commit -m "init"
+git push
+cd 
+clear
+brew update
+brew upgrade
+clrea
+clear
+fastfetch
+brew install --cask grandperspective
+brew install --cask calibre
+clear
+htop
+clear
+fastfetch
+brew list 
+clear
+brew list
+brew list 
+brew update
+brew upgrade
+clear
+fastfetch
+brew update
+brew upgrade
+clear
+ls
+ls -a
+cd dotfiles/
+ls
+vim README.md
+clear
+cd
+clear
+brew update
+clear
+fasfetch
+fastfetch
+brew update
+clrear
+brew upgrade
+clear
+fastfetch
+htop
+brew update
+brew upgrade
+clrear
+clear
+brew list
+brew update
+brew upgrade
+curl https://mise.run | sh
+echo "eval \"\$(/Users/zlatkodamcevski/.local/bin/mise activate zsh)\"" >> "/Users/zlatkodamcevski/.zshrc"
+mise doctor
+echo $SHELL
+nu -c 'code $nu.env-path'
+exit
+source ~/.config/nushell/env.nu<\n>
+which mise
+mise doctor
+mise install tuist
+git clone https://github.com/buresdv/Cork.git && cd Cork && mise exec tuist@4.50.2 -- tuist install && mise exec tuist@4.50.2 -- tuist generate --no-binary-cache
+git clone https://github.com/buresdv/Cork.git && cd Cork && mise use tuist@latest && tuist install && tuist
+git clone https://github.com/buresdv/Cork.git; cd Cork; mise use tuist@latest; tuist install; tuist
+ls
+open Cork.xcworkspace<\n>
+cd Cork/
+ls
+open Cork.xcworkspace<\n>
+cd ..
+truist generate
+ls -la<\n>
+tuist --version<\n>
+tuist generate
+sudo xcode-select -s /Applications/Xcode.app
+truist generate
+truist generate 
+tuist generate 
+ls
+cd
+ls
+cd Cork
+ls
+open Cork
+open Cork.xcworkspace/
+cd Cork.xcworkspace/
+ls
+tuist generate 
+cd ..
+tuist generate 
+clear
+cd
+clear
+brew update
+brew upgrade
+clear
+brew update
+brew upgrade
+clear
+brew update
+clear
+brew list
+cd dotfiles/

@@ -16,3 +16,4 @@
 #
 # You can remove these comments if you want or leave
 # them for future reference.
+$env.PATH = ($env.PATH | split row (char esep) | prepend ($env.HOME | path join ".local/share/mise/shims"))
